@@ -1,3 +1,3 @@
 # my-project
-This is for studies purpose
+This is for studies purpose.
 Author - Madhura
